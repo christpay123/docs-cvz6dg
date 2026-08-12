@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-dc50tn.shadowdiary.com/sitemap.xml
